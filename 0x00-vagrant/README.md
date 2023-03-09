@@ -1,1 +1,1 @@
-Linux
+Answer to Uname
